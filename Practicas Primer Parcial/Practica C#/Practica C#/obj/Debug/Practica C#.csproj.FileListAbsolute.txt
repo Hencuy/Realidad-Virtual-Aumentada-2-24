@@ -1,0 +1,8 @@
+D:\6to Semestre\Realidad Virtual\Practicas General\Practica C#\Practica C#\bin\Debug\Practica C#.exe.config
+D:\6to Semestre\Realidad Virtual\Practicas General\Practica C#\Practica C#\bin\Debug\Practica C#.exe
+D:\6to Semestre\Realidad Virtual\Practicas General\Practica C#\Practica C#\bin\Debug\Practica C#.pdb
+D:\6to Semestre\Realidad Virtual\Practicas General\Practica C#\Practica C#\obj\Debug\Practica C#.csproj.AssemblyReference.cache
+D:\6to Semestre\Realidad Virtual\Practicas General\Practica C#\Practica C#\obj\Debug\Practica C#.csproj.SuggestedBindingRedirects.cache
+D:\6to Semestre\Realidad Virtual\Practicas General\Practica C#\Practica C#\obj\Debug\Practica C#.csproj.CoreCompileInputs.cache
+D:\6to Semestre\Realidad Virtual\Practicas General\Practica C#\Practica C#\obj\Debug\Practica C#.exe
+D:\6to Semestre\Realidad Virtual\Practicas General\Practica C#\Practica C#\obj\Debug\Practica C#.pdb
